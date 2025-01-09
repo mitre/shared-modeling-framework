@@ -10,7 +10,7 @@ The Shared Modeling Framework for Mission Engineering is an approach developed b
 
 ## Issue Reporting and Enhancement Suggestions for the Shared Modeling Framework
 
-To report an issue or suggest an enhancement for the Shared Modeling Framework, please submit a GitLab issue. When doing so, make sure you select the the appropriate template (e.g., enhancement_report, problem_report, question-report) from the description field drop-down. Please provide as much information as possible to help us understand and resolve the issue.
+To report an issue, suggest an enhancement, or ask a question regarding the Shared Modeling Framework, please submit a GitLab issue. When doing so, make sure you select the the appropriate template (e.g., enhancement_report, problem_report, question-report) from the description field drop-down. Please provide as much information as possible to help us understand and resolve the issue.
 
 ## Open Standards
 The Shared Modeling Framework leverages the following open standards in the table below to enable seamless sharing and adoption by mission engineering architects:
