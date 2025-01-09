@@ -1,7 +1,13 @@
-## Questions
+---
+name: Question Report
+about: Use this template to submit any questions regarding the SMF.
+title: "[Question Report]"
+labels: Question
+
+---
 
 #### Version Number 
-_Specify the version of the Shared Modeling Framework your question is about (e.g., 3.1)._
+_Specify the model version of the Shared Modeling Framework you are referring to (e.g., Seed Model 3.0)._
 ```
 
 
