@@ -1,7 +1,13 @@
-## Enhancement Suggestion
+---
+name: Enhancement Report
+about: Use this template to submit any enhancements or suggestions for the SMF.
+title: "[Enhancement Report]"
+labels: Enhancement
+
+---
 
 #### Version Number 
-_Specify the version of the Shared Modeling Framework you are referring to (e.g., 3.1)._
+_Specify the model version of the Shared Modeling Framework you are referring to (e.g., Seed Model 3.0)._
 
 ```
 
